@@ -1,0 +1,15 @@
+# Virtual environment
+mediapipe_env/
+
+# MediaPipe model files
+*.task
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
